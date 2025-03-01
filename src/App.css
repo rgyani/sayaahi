@@ -1,0 +1,9 @@
+.cs-conversation__info {
+    min-height: 1.5em;
+}
+
+@media (max-width: 576px) {
+    .cs-main-container--responsive>.cs-sidebar.cs-sidebar--left {
+      display: flex;
+    }
+  }
